@@ -25,7 +25,7 @@ client = OpenAI()
 
 MODEL_NAME = "gpt-5.4-mini"   # 先用 mini，更适合练手和控成本
 SLEEP_BETWEEN_CALLS = 1.0     # 避免请求太密
-OUTPUT_FILE = "mihoyo_player_insight_analysis.xlsx"
+OUTPUT_FILE = "player_insight_analysis.xlsx"
 
 # =========================================
 # 2. 示例评论数据
